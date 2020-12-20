@@ -8,5 +8,11 @@
     "graphql": "^15.4.0",
     "mongoose": "^5.11.8",
     "nodemon": "^2.0.6"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.12.10",
+    "@babel/core": "^7.12.10",
+    "@babel/node": "^7.12.10",
+    "@babel/preset-env": "^7.12.11"
   }
 }
