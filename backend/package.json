@@ -2,5 +2,11 @@
   "name": "flashcards-backend",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server-express": "^2.19.0",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.11.8",
+    "nodemon": "^2.0.6"
+  }
 }
